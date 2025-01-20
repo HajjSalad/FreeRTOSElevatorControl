@@ -21,4 +21,4 @@ This project implements a task-based elevator control system using FreeRTOS on t
 - **Notification:** Tasks signal one another to trigger specific actions. For example, `main.c` notifies the log task to wake up and start logging activities.
 
 #### Demo
-You can view the ![Elevator Control Demo](./freertos_elev_demo.gif) in action.
+View the demo in action. ![Elevator Control Demo](./freertos_elev_demo.gif) 
